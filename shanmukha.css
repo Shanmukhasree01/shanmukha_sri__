@@ -1,0 +1,10 @@
+*{margin: 0;
+    padding: 0;
+    background-color:greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+
+.navbar{margin: 10px;
+        border-bottom: solid blue;border-radius: 50px;
+        align-items: center;}
